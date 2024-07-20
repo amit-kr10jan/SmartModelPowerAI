@@ -11,3 +11,5 @@ Key features
 5). Feature transformation: Users can easily apply various transformation techniques to their features, such as normalization, standardization, and encoding, ensuring the data is optimized for model training and improving overall performance.
 6). Model section: Choose from a variety of machine learning algorithms tailored for regression, classification, and time-series analysis, ensuring the best fit for your data.
 7). Build Model : Easily configure and train your selected model with just a few clicks, leveraging advanced techniques to optimize performance and accuracy.
+
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
