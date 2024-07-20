@@ -1,3 +1,4 @@
+![Alt text](misc/smartModel.png?raw=true "SmartModel PowerAI")
 # SmartModelPowerAI
 SmartModel PowerAI is an intuitive web application built using React.js for the frontend and FastAPI for backend designed to empower users to create robust regression, classification, time-series and generative models
 The platform is equipped with a user-friendly interface that allows easy configuration of data sources and features a drag-and-drop functionality for seamless feature selection and transformation. Users can effortlessly detect outliers and visualize the real-time pipeline, making SmartModel PowerAI the ultimate tool for data scientists and analysts looking to streamline their machine learning workflows.
@@ -12,4 +13,11 @@ Key features
 6). Model section: Choose from a variety of machine learning algorithms tailored for regression, classification, and time-series analysis, ensuring the best fit for your data.
 7). Build Model : Easily configure and train your selected model with just a few clicks, leveraging advanced techniques to optimize performance and accuracy.
 
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+# visualization screen
+![Alt text](misc/import_screen.png?raw=true "Title")
+# Target distribution
+![Alt text](misc/target_dis.png?raw=true "Title")
+# Model selection and data drifting 
+![Alt text](misc/Model_performance.png?raw=true "Title")
+
+
