@@ -20,4 +20,7 @@ Key features
 # Model selection and data drifting 
 ![Alt text](misc/Model_performance.png?raw=true "Title")
 
+# Setup 
+ Run system_setup.py : it will download all python and react library
+
 
